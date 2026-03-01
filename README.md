@@ -1,2 +1,1 @@
-# Internal_Library_Management_System
-just a lms
+# The openGPLMS Software
